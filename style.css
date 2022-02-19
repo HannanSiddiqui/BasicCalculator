@@ -1,0 +1,50 @@
+.main{
+    border: 2px solid black;
+    width: 300px;
+    padding: 1rem;
+}
+.screen{
+    padding-bottom: 1rem;
+}
+
+.display{
+    background-color: rgb(243, 243, 243);
+    padding: 0.5rem;
+    width: 90%;
+}
+/* .clrbtn{
+    margin-top: 0.5rem;
+    width: 95%;
+} */
+.btn{
+    margin-top: 0.5rem;
+    width: 22%;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    margin-right: 0.2rem;
+    margin-left: 0.1rem;
+}
+
+.halfbtn{
+    margin-top: 0.5rem;
+    width: 47%;
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
+    margin-right: 0.2rem;
+    margin-left: 0.1rem;
+}
+
+.halfbtn:hover{
+
+    background-color: black;
+    color: aliceblue;
+    transition-duration: 5ms ;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: black;
+    color: aliceblue;
+    transition-duration: 5ms;
+    cursor: pointer;
+}
